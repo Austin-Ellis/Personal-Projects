@@ -1,11 +1,8 @@
 //Austin Ellis
 // 2/7/24
 
-
-
 public class FancyPrinting extends Thread
 {
-   String word = "";
    
    public static void fancy(String w)
    {
